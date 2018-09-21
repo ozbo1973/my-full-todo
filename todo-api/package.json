@@ -1,0 +1,29 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "back end of todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozbo1973/my-full-todo.git"
+  },
+  "keywords": [
+    "Todo",
+    "application"
+  ],
+  "author": "Brady Bovero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozbo1973/my-full-todo/issues"
+  },
+  "homepage": "https://github.com/ozbo1973/my-full-todo#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.16"
+  }
+}
