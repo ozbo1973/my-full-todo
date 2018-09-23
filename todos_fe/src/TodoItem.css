@@ -1,0 +1,7 @@
+.TodoItem-completed {
+  text-decoration: line-through;
+}
+
+.TodoItem-not-completed {
+  text-decoration: none;
+}

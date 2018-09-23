@@ -49,6 +49,7 @@ git push -u origin master
 
 **Front End ***
 --)create-react-app todos_FE and cd to new app folder.
+--)install Axios
 --)Make a component diagram.
 --)Define where state will live
 --)Package.json, define proxy for dev server, ie 5000
